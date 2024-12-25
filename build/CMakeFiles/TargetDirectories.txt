@@ -1,0 +1,3 @@
+D:/Projects/Croosy/build/CMakeFiles/Crossy_road.dir
+D:/Projects/Croosy/build/CMakeFiles/edit_cache.dir
+D:/Projects/Croosy/build/CMakeFiles/rebuild_cache.dir
